@@ -1,0 +1,49 @@
+{
+  "productslist":[
+    {
+      "id":1,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"All Bags"
+    },
+    {
+      "id":2,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_50_n6uj8i.jpg",
+      "name":"Vanity Pouch"
+    },
+    {
+      "id":3,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708082576/Frame_49_aydf3t.png",
+      "name":"Tote Bag"
+    },
+    {
+      "id":4,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Duffle Bag"
+    },
+    {
+      "id":5,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Laptop Sleeve"
+    },
+    {
+      "id":6,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Messenger Bags"
+    },
+    {
+      "id":7,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Slings Bags"
+    },
+    {
+      "id":8,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Hand Bag"
+    },
+    {
+      "id":9,
+      "url":"https://res.cloudinary.com/dt0iyjopp/image/upload/v1708081012/Frame_461_bj9kk0.jpg",
+      "name":"Bucket Bag"
+    }
+  ]
+}
